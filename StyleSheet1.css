@@ -1,0 +1,17 @@
+﻿body 
+{
+    font-size:0.8em;
+	margin:0px;
+	padding:0px;
+	font-family:verdana, arial, helvetica, sans-serif;
+	color:#222;
+}
+#content 
+{
+    padding: 25px;
+}
+#info 
+{
+    margin-top: 25px;
+}
+
